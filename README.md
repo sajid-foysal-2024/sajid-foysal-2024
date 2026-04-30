@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Sajid Foysal</h1>
 
 <h3 align="center">
-  Full-Stack Engineer • Python Developer • React Enthusiast • Unity Learner
+  Full-Stack Engineer • Django + React • Unity Learner
 </h3>
 
 <p align="center">
