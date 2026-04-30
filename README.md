@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Sajid Foysal</h1>
 
-<!--
-**sajid-foysal-2024/sajid-foysal-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Full-Stack Engineer • Python Developer • React Enthusiast • Unity Learner
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajid-foysal-2024&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/sajid-foysal-2024">
+    <img src="https://img.shields.io/github/followers/sajid-foysal-2024?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 Currently building **OS Agency**
+- 🌱 Exploring **C#, Unity & Game Development**
+- 💡 Passionate about **Full-Stack Development & Creative Technologies**
+- 👯 Open to collaborating on **Web Applications & Software Projects**
+- 💬 Ask me about **Python, React, Django, JavaScript & C#**
+- 🎮 Gamer & aspiring **Game Developer**
+- ⚡ Always learning, building, and improving
+
+<br>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <p align="center">
+  <a href="https://www.facebook.com/sajid.foysal.2025" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+      alt="Facebook" 
+      height="50" 
+      width="50" 
+    />
+  </a>
+</p>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cs,html,css,js,python,react,django,mysql,sqlite,docker,unity,photoshop,postman" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sajid-foysal-2024&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid-foysal-2024&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajid-foysal-2024&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```txt
+Building modern web applications
+Learning game development with Unity
+Growing OS Agency
+Improving problem-solving skills
+Creating impactful digital experiences
+```
+
+---
+
+## ✨ Philosophy
+
+> “Code with purpose, build with passion, and never stop learning.”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
