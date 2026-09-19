@@ -6,9 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sajid-foysal-2024&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/sajid-foysal-2024">
     <img src="https://img.shields.io/github/followers/sajid-foysal-2024?label=Followers&style=social" alt="GitHub Followers" />
   </a>
@@ -28,23 +25,21 @@
 - 🎮 Gamer & aspiring **Game Developer**
 - ⚡ Always learning, building, and improving
 
-<br>
+<br clear="right"/>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <p align="center">
   <a href="https://www.facebook.com/sajid.foysal.2025" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-      alt="Facebook" 
-      height="50" 
-      width="50" 
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook"
+      height="40"
+      width="40"
     />
   </a>
-</p>
 </p>
 
 ---
@@ -52,9 +47,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cs,html,css,js,python,react,django,mysql,sqlite,docker,unity,photoshop,postman" />
-
+  <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,python,react,django,mysql,sqlite,docker,unity,photoshop,postman" />
 </p>
 
 ---
@@ -63,7 +56,6 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sajid-foysal-2024&show_icons=true&theme=tokyonight&hide_border=true" />
-  
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid-foysal-2024&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -87,7 +79,7 @@ Creating impactful digital experiences
 
 ## ✨ Philosophy
 
-> “Code with purpose, build with passion, and never stop learning.”
+> "I need full control."
 
 ---
 
