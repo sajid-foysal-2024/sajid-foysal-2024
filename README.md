@@ -65,6 +65,14 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sajid-foysal-2024&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 ```txt
