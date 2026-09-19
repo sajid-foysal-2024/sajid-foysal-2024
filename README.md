@@ -65,6 +65,14 @@
 
 ---
 
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img width="90%" src="https://ghchart.rshah.org/2ea043/sajid-foysal-2024" alt="Sajid's GitHub contribution chart" />
+</p>
+
+---
+
 ## 📈 Contribution Activity
 
 <p align="center">
